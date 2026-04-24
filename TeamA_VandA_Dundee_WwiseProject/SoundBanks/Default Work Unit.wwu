@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{234BC2EB-6DCC-4937-9F11-BEF27CD5092A}" SchemaVersion="123">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{234BC2EB-6DCC-4937-9F11-BEF27CD5092A}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="DefaultSoundbank" ID="{4F7ACA08-CC4F-4376-A3D4-E4BA05AE7A15}">
+					<ObjectInclusionList>
+						<ObjectRef Name="(Alpha) Audio AkEvents" ID="{1795CC0C-F348-4A83-9355-EA1EC3D2A063}" WorkUnitID="{0D5FBDCE-FB58-44DB-9ECA-19F498C771C4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Placeholder Audio" ID="{942C5849-F098-4DDB-AE85-51CE776C1AAE}" WorkUnitID="{0D5FBDCE-FB58-44DB-9ECA-19F498C771C4}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
